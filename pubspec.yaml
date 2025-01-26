@@ -34,6 +34,15 @@ dependencies:
   flutter_native_splash: ^2.2.16 # 스플래시화면 구현을 위한 라이브러리
   cupertino_icons: ^1.0.8
 
+# 스플래시 화면 설정
+flutter_native_splash:
+  color: "#082B2A"
+  image: "assets/img/logo.png"
+  color_dark: "#082B2A"
+  image_dark: "assets/img/logo.png"
+  android: true
+  ios: true
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
