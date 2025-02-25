@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "919324671992",
+    "project_id": "ecostep-plz",
+    "storage_bucket": "ecostep-plz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919324671992:android:0caaa40bda7700dd0be00d",
+        "android_client_info": {
+          "package_name": "com.example.ecostep_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919324671992-3nlep8ohjeqeb56v14hnpcbla8ppdp94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecostep_application",
+            "certificate_hash": "d8a571a520e6095044cef8829a994331b91f217f"
+          }
+        },
+        {
+          "client_id": "919324671992-16hfijgfrpoff1pgrj63j5qd2g5jtb1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr2T6pNNhWvDxDtwJ3c7ekSJ_HJ-S7qUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919324671992-16hfijgfrpoff1pgrj63j5qd2g5jtb1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919324671992-tv0ra9km35lgkjs5tgq4sghtv1hab4j2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecostepApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
